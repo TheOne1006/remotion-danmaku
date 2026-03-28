@@ -1,0 +1,97 @@
+{
+  "durationInFrames": 0,
+  "danmuGroups": [
+    { "id": "g1", "start": [1.001, 0.056], "end": [-0.156, 0.056], "speed": 1.0, "danmus": [
+      { "id": "d1", "text": "弹幕系统测试中", "startFrame": 0, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFFFFF", "fontSize": 48, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 6, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d2", "text": "666666", "startFrame": 180, "delay": 15, "fontFamily": "Roboto", "style": { "color": "#FFD700", "fontSize": 52, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d3", "text": "测试成功！", "startFrame": 380, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00FF7F", "fontSize": 46, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d4", "text": "弹幕来了", "startFrame": 580, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#87CEEB", "fontSize": 50, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g2", "start": [1.002, 0.130], "end": [-0.182, 0.130], "speed": 1.1, "danmus": [
+      { "id": "d5", "text": "欢迎观看本视频", "startFrame": 50, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF69B4", "fontSize": 44, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d6", "text": "点赞不迷路", "startFrame": 260, "delay": 20, "fontFamily": "Roboto", "style": { "color": "#00FF00", "fontSize": 56, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d7", "text": "一键三连！", "startFrame": 480, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF1493", "fontSize": 50, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 4, "offsetX": 1, "offsetY": 1 } } },
+      { "id": "d8", "text": "关注走一波", "startFrame": 700, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#DDA0DD", "fontSize": 48, "fontWeight": 600, "opacity": 1.0 } }
+    ]},
+    { "id": "g3", "start": [-0.030, -0.046], "end": [1.094, 1.093], "speed": 0.9, "danmus": [
+      { "id": "d9", "text": "前方高能预警！", "startFrame": 90, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF4500", "fontSize": 54, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 6, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d10", "text": "斜向弹幕来了", "startFrame": 320, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF6347", "fontSize": 48, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d11", "text": "对角线移动", "startFrame": 550, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00CED1", "fontSize": 46, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g4", "start": [1.050, 0.204], "end": [-0.182, 0.204], "speed": 1.0, "danmus": [
+      { "id": "d12", "text": "太强了吧", "startFrame": 120, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#DDA0DD", "fontSize": 54, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d13", "text": "学到了学到了", "startFrame": 320, "delay": 10, "fontFamily": "Roboto", "style": { "color": "#87CEEB", "fontSize": 46, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d14", "text": "干货满满", "startFrame": 520, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#98FB98", "fontSize": 44, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d15", "text": "收藏了", "startFrame": 720, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFD700", "fontSize": 48, "fontWeight": 600, "opacity": 1.0 } }
+    ]},
+    { "id": "g5", "start": [1.032, 0.278], "end": [-0.208, 0.278], "speed": 1.2, "danmus": [
+      { "id": "d16", "text": "这是什么神仙操作", "startFrame": 45, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#ADFF2F", "fontSize": 48, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d17", "text": "哈哈哈笑死我了", "startFrame": 250, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFE4B5", "fontSize": 52, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d18", "text": "绝绝子！", "startFrame": 460, "delay": 5, "fontFamily": "Roboto", "style": { "color": "#FF69B4", "fontSize": 50, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d19", "text": "太绝了", "startFrame": 680, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF1493", "fontSize": 46, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g6", "start": [-0.104, 0.028], "end": [1.068, 1.185], "speed": 0.85, "danmus": [
+      { "id": "d20", "text": "左上到右下弹幕", "startFrame": 100, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00CED1", "fontSize": 52, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 5, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d21", "text": "斜向运动真酷", "startFrame": 340, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#9370DB", "fontSize": 46, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d22", "text": "角度不同", "startFrame": 580, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#7CFC00", "fontSize": 48, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g7", "start": [1.108, 0.352], "end": [-0.182, 0.352], "speed": 1.0, "danmus": [
+      { "id": "d23", "text": "建议收藏", "startFrame": 40, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF6347", "fontSize": 44, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d24", "text": "下次再见", "startFrame": 230, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFFFFF", "fontSize": 58, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 6, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d25", "text": "关注UP主", "startFrame": 430, "delay": 8, "fontFamily": "Roboto", "style": { "color": "#FFD700", "fontSize": 48, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d26", "text": "三连三连", "startFrame": 640, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF1493", "fontSize": 50, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g8", "start": [1.050, 0.426], "end": [-0.208, 0.426], "speed": 0.95, "danmus": [
+      { "id": "d27", "text": "厉害了我的哥", "startFrame": 100, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFD700", "fontSize": 50, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d28", "text": "防伪水印", "startFrame": 290, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF69B4", "fontSize": 42, "fontWeight": 700, "opacity": 0.8 } },
+      { "id": "d29", "text": "原创内容", "startFrame": 490, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00BFFF", "fontSize": 44, "fontWeight": 600, "opacity": 0.9 } },
+      { "id": "d30", "text": "支持原创", "startFrame": 700, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#32CD32", "fontSize": 48, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g9", "start": [-0.106, 0.056], "end": [1.120, 1.278], "speed": 0.8, "danmus": [
+      { "id": "d31", "text": "第三条斜线弹幕", "startFrame": 180, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF1493", "fontSize": 50, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 4, "offsetX": 1, "offsetY": 1 } } },
+      { "id": "d32", "text": "从左上划到右下", "startFrame": 410, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#7CFC00", "fontSize": 46, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d33", "text": "帅呆了", "startFrame": 650, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00CED1", "fontSize": 52, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g10", "start": [1.146, 0.500], "end": [-0.156, 0.500], "speed": 1.1, "danmus": [
+      { "id": "d34", "text": "用户ID: 12345", "startFrame": 30, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00FF00", "fontSize": 46, "fontWeight": 600, "opacity": 0.9 } },
+      { "id": "d35", "text": "版权所有", "startFrame": 220, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00BFFF", "fontSize": 54, "fontWeight": 700, "opacity": 0.85 } },
+      { "id": "d36", "text": "未经授权禁止转载", "startFrame": 420, "delay": 5, "fontFamily": "Roboto", "style": { "color": "#FF4500", "fontSize": 42, "fontWeight": 700, "opacity": 0.95 } },
+      { "id": "d37", "text": "仅供学习", "startFrame": 640, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#DDA0DD", "fontSize": 46, "fontWeight": 600, "opacity": 1.0 } }
+    ]},
+    { "id": "g11", "start": [1.008, 0.574], "end": [-0.182, 0.574], "speed": 1.0, "danmus": [
+      { "id": "d38", "text": "独家内容", "startFrame": 70, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#DDA0DD", "fontSize": 48, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d39", "text": "禁止转载", "startFrame": 260, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF4500", "fontSize": 56, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d40", "text": "仅供学习交流", "startFrame": 460, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#98D8C8", "fontSize": 44, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d41", "text": "感谢理解", "startFrame": 680, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#87CEEB", "fontSize": 48, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g12", "start": [1.050, 0.648], "end": [-0.208, 0.648], "speed": 0.9, "danmus": [
+      { "id": "d42", "text": "感谢观看", "startFrame": 55, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#87CEEB", "fontSize": 52, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d43", "text": "下次再见", "startFrame": 250, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#ADFF2F", "fontSize": 44, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d44", "text": "期待下期", "startFrame": 450, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFD700", "fontSize": 50, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 5, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d45", "text": "拜拜咯", "startFrame": 660, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF69B4", "fontSize": 48, "fontWeight": 600, "opacity": 1.0 } }
+    ]},
+    { "id": "g13", "start": [1.1, 0.722], "end": [-0.156, 0.722], "speed": 1.15, "danmus": [
+      { "id": "d46", "text": "太棒了！", "startFrame": 65, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF69B4", "fontSize": 48, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d47", "text": "爱了爱了", "startFrame": 280, "delay": 10, "fontFamily": "Roboto", "style": { "color": "#FF1493", "fontSize": 52, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d48", "text": "绝绝子", "startFrame": 480, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFD700", "fontSize": 54, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#FF4500", "blur": 8, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d49", "text": "yyds！", "startFrame": 690, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00FF7F", "fontSize": 56, "fontWeight": 700, "opacity": 1.0 } }
+    ]},
+    { "id": "g14", "start": [1.198, 0.796], "end": [-0.182, 0.796], "speed": 1.0, "danmus": [
+      { "id": "d50", "text": "催更催更", "startFrame": 110, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00CED1", "fontSize": 46, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d51", "text": "坐等更新", "startFrame": 300, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#9370DB", "fontSize": 44, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d52", "text": "UP主加油", "startFrame": 500, "delay": 5, "fontFamily": "Roboto", "style": { "color": "#32CD32", "fontSize": 50, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d53", "text": "快更新啊", "startFrame": 710, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF6347", "fontSize": 48, "fontWeight": 600, "opacity": 1.0 } }
+    ]},
+    { "id": "g15", "start": [1.250, 0.870], "end": [-0.208, 0.870], "speed": 0.85, "danmus": [
+      { "id": "d54", "text": "弹幕真多啊", "startFrame": 140, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFFFFF", "fontSize": 52, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 6, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d55", "text": "感谢支持", "startFrame": 340, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFD700", "fontSize": 56, "fontWeight": 700, "opacity": 1.0 } },
+      { "id": "d56", "text": "我们下期见！", "startFrame": 540, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF69B4", "fontSize": 54, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 5, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d57", "text": "拜拜！", "startFrame": 750, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#00CED1", "fontSize": 58, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 6, "offsetX": 2, "offsetY": 2 } } }
+    ]},
+    { "id": "g16", "start": [-0.006, -0.037], "end": [1.120, 1.435], "speed": 0.75, "danmus": [
+      { "id": "d58", "text": "第四条斜线", "startFrame": 200, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#9370DB", "fontSize": 50, "fontWeight": 700, "opacity": 1.0, "shadow": { "color": "#000", "blur": 5, "offsetX": 2, "offsetY": 2 } } },
+      { "id": "d59", "text": "斜向弹幕好酷", "startFrame": 450, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FFD700", "fontSize": 46, "fontWeight": 600, "opacity": 1.0 } },
+      { "id": "d60", "text": "666666", "startFrame": 700, "delay": 0, "fontFamily": "Roboto", "style": { "color": "#FF4500", "fontSize": 54, "fontWeight": 700, "opacity": 1.0 } }
+    ]}
+  ]
+}

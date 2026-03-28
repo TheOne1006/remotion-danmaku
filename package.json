@@ -1,0 +1,29 @@
+{
+  "name": "remotion-danmaku-monorepo",
+  "description": "Danmaku (barrage comments) library for Remotion",
+  "author": {
+    "name": "TheOne1006",
+    "github": "https://github.com/TheOne1006"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOne1006/remotion-danmaku.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "dev": "turbo run dev",
+    "clean": "rm -rf packages/**/dist && rm -rf packages/**/.turbo && rm -rf packages/**/node_modules && rm -rf .turbo"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3",
+    "turbo": "1.10.15",
+    "tsup": "7.2.0",
+    "typescript": "^5.2.2"
+  },
+  "packageManager": "pnpm@8.6.10"
+}

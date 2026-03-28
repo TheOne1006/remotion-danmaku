@@ -1,0 +1,53 @@
+{
+  "name": "remotion-danmaku",
+  "version": "0.0.1",
+  "description": "Danmaku (barrage comments) library for Remotion.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
+    "lint": "eslint src"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "remotion": "*",
+    "zod": "*"
+  },
+  "dependencies": {
+    "@remotion/layout-utils": "^4.0.46",
+    "@remotion/zod-types": "^4.0.46"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.26",
+    "react": "^18.2.0",
+    "remotion": "^4.0.46",
+    "zod": "^3.22.3"
+  },
+  "author": {
+    "name": "TheOne1006",
+    "github": "https://github.com/TheOne1006"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOne1006/remotion-danmaku.git",
+    "directory": "packages/danmaku"
+  },
+  "homepage": "https://github.com/TheOne1006/remotion-danmaku#readme",
+  "bugs": {
+    "url": "https://github.com/TheOne1006/remotion-danmaku/issues"
+  },
+  "keywords": [
+    "remotion",
+    "danmaku",
+    "barrage",
+    "comments",
+    "video",
+    "弹幕"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
